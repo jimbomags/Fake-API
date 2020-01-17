@@ -1,6 +1,8 @@
 {
-  "id": 1,
-  "startTime": "2018-09-07T00:00:00:000Z",
-  "endTime": "2018-09-17T00:00:00:000Z",
-  "copy": "Free USPS shipping for items priced $20 and over. Ends Wednesday"
+  "data" {
+    "id": 1,
+    "startTime": "2018-09-07T00:00:00:000Z",
+    "endTime": "2018-09-17T00:00:00:000Z",
+    "copy": "Free USPS shipping for items priced $20 and over. Ends Wednesday"
+  }
 }
